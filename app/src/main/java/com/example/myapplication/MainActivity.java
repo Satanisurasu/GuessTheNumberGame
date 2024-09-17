@@ -11,7 +11,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int randomNumber; // Случайное число
+    private int randomNumber; // Случайное число ..
     private int attemptsLeft = 3; // Количество попыток
     private int minRange = 1; // Минимум диапазона
     private int maxRange = 100; // Максимум диапазона
